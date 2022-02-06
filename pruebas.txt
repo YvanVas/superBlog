@@ -1,1 +1,3 @@
-Iniciamos con todo
+Iniciamos con todo 
+
+Ready para aprender a usar git jeje
