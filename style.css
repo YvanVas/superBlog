@@ -24,3 +24,10 @@ body{
 .post{
     padding: 1rem;
 }
+
+.footer{
+    background-color: #c2c5aa;
+    text-align: center;
+    padding: 0.1rem;
+    font-weight: bold;
+}
