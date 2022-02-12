@@ -3,6 +3,8 @@ Iniciamos con todo
 Ready para aprender a usar git jeje
 Prueba de reset
 
+experimento 1 
+
 master1
 
 main 2
