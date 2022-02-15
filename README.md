@@ -8,3 +8,5 @@ Blog para practica en Platzi
 - Flujo de trabajo en Github.
 - Muchisímas buenas prácticas.
 - Y el Freddy-verso
+
+Creado por Yvan
