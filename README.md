@@ -10,3 +10,4 @@ Blog para practica en Platzi
 - Y el Freddy-verso
 
 Creado por Yvan
+Con lo mejor de platzi
